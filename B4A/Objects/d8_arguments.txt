@@ -1,0 +1,78 @@
+--release
+--output
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects
+--lib
+C:\Android\platforms\android-33\android.jar
+C:\Android\tools\..\extras\b4a_local\unpacked-b4ashared-63837495756000\dex_v1\b4ashared.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-debug-63837495758000\dex_v1\debug.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-core-63837495758000\dex_v1\core.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-json-63837495758000\dex_v1\json.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-okhttp-63837495758000\dex_v1\okhttp.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-xui-63837495758000\dex_v1\xui.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-okhttp-4.9.0-63837495758000\dex_v1\okhttp-4.9.0.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-okio-2.8.0-63837495758000\dex_v1\okio-2.8.0.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-okhttp-urlconnection-4.9.3-63837495758000\dex_v1\okhttp-urlconnection-4.9.3.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-kotlin-stdlib-1.6.10-63837495758000\dex_v1\kotlin-stdlib-1.6.10.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-javaobject-63837495758000\dex_v1\javaobject.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-stringutils-63837495758000\dex_v1\stringutils.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-remotelogger-63837495758000\dex_v1\remotelogger.zip
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xbitset.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xbytesbuilder.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xcache$_b4xcacheitem.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xcache.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xcollections.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xcomparatorsort.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xmainpage.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xorderedmap.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xpages.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xpagesdelegator.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xpagesmanager$PagesMenuListener.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xpagesmanager$ResumableSub_HandleCloseRequest.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xpagesmanager$_b4amenuitem.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xpagesmanager$_b4xpageinfo.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xpagesmanager$_b4xpageparent.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xpagesmanager.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xset.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xtiendas$ResumableSub_cmdCreate_Click.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xtiendas$ResumableSub_cmdDelete_Click.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xtiendas$ResumableSub_cmdLeer_Click.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xtiendas$ResumableSub_cmdUpdate_Click.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xtiendas.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xvideojuegos$ResumableSub_cmdCreate_Click.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xvideojuegos$ResumableSub_cmdDelete_Click.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xvideojuegos$ResumableSub_cmdLeer_Click.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xvideojuegos$ResumableSub_cmdUpdate_Click.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\b4xvideojuegos.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\httpjob$_multipartfiledata.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\httpjob.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\httputils2service.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\main$1.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\main$B4AMenuItemsClickListener.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\main$HandleKeyDelayed.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\main$ResumeMessage.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\main$WaitForLayout.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\main.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\R$drawable.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\R$style.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\R.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\starter$1.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\starter$2.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\starter$starter_BR.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\starter.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\tienda.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\tiendas$ResumableSub_Create.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\tiendas$ResumableSub_Delete.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\tiendas$ResumableSub_Read_All.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\tiendas$ResumableSub_Read_ById.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\tiendas$ResumableSub_Update.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\tiendas.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\videojuego.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\videojuegos$ResumableSub_Create.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\videojuegos$ResumableSub_Delete.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\videojuegos$ResumableSub_Read_All.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\videojuegos$ResumableSub_Read_ById.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\videojuegos$ResumableSub_Update.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\videojuegos.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\designerscripts\LS_mainpage.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\designerscripts\LS_tiendaspage.dex
+C:\Archivos de la UTN\Semestre 7\2.1. TrabajosApp\B4A_Projects\CuascotaRoberto_B4XPages\B4A\Objects\dexed\b4a\example\designerscripts\LS_videojuegospage.dex
